@@ -3,20 +3,7 @@
 
 This is a simple **Amazon Clone** built using **HTML** and **CSS** to replicate the UI of Amazon's homepage. It is a frontend-only project meant to practice and demonstrate HTML & CSS layout, responsiveness, and styling techniques.
 
-## 🌐 Live Demo
 
-[🔗 Click here to view the live site](#)  
-(Replace `#` with your GitHub Pages or Netlify link)
-
----
-
-## 📸 Screenshots
-
-| Homepage |
-|----------|
-| ![Amazon Clone Screenshot](screenshot.png) |
-
----
 
 ## 📁 Features
 
