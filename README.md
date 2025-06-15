@@ -23,6 +23,6 @@ This is a simple **Amazon Clone** built using **HTML** and **CSS** to replicate 
 
 ---
 
-## 📂 Folder Structure
 
-MOHIT
+AUTHOR-
+MOHIT KUMAR
